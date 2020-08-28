@@ -1,7 +1,11 @@
 # notice
 '2020 군장병 온라인 해커톤' 공지사항입니다.
 
-[ 실시간 캠프 진행현황 바로가기](https://osam2019.github.io/notice/)
+[실시간 캠프 진행현황 바로가기](https://000)
+
+[캠프 후기 작성하러 가기](https://osam.kr/board/index.jsp?code=AICAMP2020)
+
+[만족도 조사 작성하러 가기](https://docs.google.com/0000)
 
 ## '2020 군장병 온라인 해커톤' 공지사항입니다.
 
