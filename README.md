@@ -1,7 +1,7 @@
 # notice
 '2020 군장병 온라인 해커톤' 공지사항입니다.
 
-[실시간 개발현황 확인하기](https://000)
+[실시간 개발현황 확인하기](https://osamhack2020.github.io/notice/)
 
 [해커톤 후기 작성하기](https://osam.kr/board/index.jsp?code=AICAMP2020)
 
